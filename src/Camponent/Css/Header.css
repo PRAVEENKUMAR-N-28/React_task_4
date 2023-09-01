@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 15px 10%;
+    background: #b2b2b2;
+    box-shadow: 0 .2rem 0rem rgba(159, 156, 157, 255);
+}
+.logo{
+    color: white;
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+
+.nav-link a{
+    padding: 0 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    
+}

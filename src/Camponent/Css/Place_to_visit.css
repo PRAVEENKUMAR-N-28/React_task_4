@@ -1,0 +1,136 @@
+.continer1{
+    margin-left: 140px;
+    margin-right: 140px;
+    height: 400px;
+        /* background: gray; */
+}
+
+/* .continer-1{
+    display: flex;
+    gap: 15px;
+    margin-top: 40px;
+}
+
+.para {
+    height: 410px;
+    width: 1000px;
+    
+    background: gray;
+    
+}
+
+.ptitle-1{
+    font-weight: 600;
+}
+
+.words{
+    height: 400px;
+    
+}
+
+.img1{
+    height: 350px;
+    width: 400px;
+}
+
+.def1{
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    position:relative;
+    bottom: 0.7rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.p2{
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    position:relative;
+    bottom: 0.7rem;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 10px;
+} */
+
+.para2{
+    margin-top: 20px;
+}
+
+.imag1{
+    float:right
+}
+
+.image{
+    height: 430px;
+    width: 500px;
+    margin-left: 20px;
+}
+
+.caption{
+    text-align: center;
+}
+
+.def_1{
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    /* margin-top: 5px; */
+    /* font-size: rem; */
+    font-weight: 400;
+    
+    
+}
+
+.ptitle-1{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.p2{
+    margin-top: 40px;
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+}
+
+.t2 p{
+    text-align: center;
+    margin: 4rem;
+    font-weight: 600;
+    font-size: 1.7rem;
+    padding: 1rem;
+}
+
+.imag_2{
+    float: left;
+    width: 188.5px;
+    height: 240px;
+    margin-right: 15px;
+}
+
+.place_name{
+    font-size: 1.03rem;
+    font-weight: 600;
+}
+
+.imag_3{
+    float: right;
+    width: 188.5px;
+    height: 240px;
+    margin-left: 15px;
+}
+
+.right_img{
+    margin: 5rem 0rem;
+}
+
+.im3{
+    height: 180px;
+}
+
+
+.im4{
+    height: 170px;
+}

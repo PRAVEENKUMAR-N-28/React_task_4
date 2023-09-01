@@ -1,0 +1,132 @@
+.Food_continer{
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.food_image{
+    height: 210px;
+    width: 230px;
+    margin-bottom: 10px;
+}
+.Food_img{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 30px;
+}
+
+.Section_1{
+    display: flex;
+    margin-top: 5rem;
+}
+
+.Food_title{
+    font-weight: 600;
+    font-size: 22px;
+}
+.Food_Con{
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    padding-right: 55px;
+}
+
+.f2 , .f4{
+    margin-left: 20px;
+}
+
+.Dis_food_heading{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.Dis_1{
+    background: rgb(255, 255, 255);
+    height: 435px;
+    width: 490px;
+    padding: 21px;
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 6px black;
+}
+
+.Dis_2{
+    background: rgb(255, 255, 255);
+    height: 435px;
+    width: 490px;
+    padding: 21px;
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 6px black;}
+
+.Dis_list_1{
+    display: flex;
+    justify-content: space-between;
+}
+.Dis_list_2{
+    display: flex;
+    justify-content: space-between;
+    margin-top:40px;
+}
+
+.Dis_3 , .Dis_4{
+    background: rgb(255, 255, 255);
+    height: 390px;
+    width: 490px;
+    padding: 21px;
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 6px black;
+}
+
+.Dis_name{
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    /* text-justify: inter-word; */
+    text-indent: 0px;
+}
+
+.Dis_5 , .Dis_6{
+    background: rgb(255, 255, 255);
+    height: 340px;
+    width: 490px;
+    padding: 21px;
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 6px black;
+}
+
+.Dis_7 , .Dis_8{
+    background: rgb(255, 255, 255);
+    height: 410px;
+    width: 490px;
+    padding: 21px;
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 6px black;
+}
+
+.Dis_9 , .Dis_10{
+    background: rgb(255, 255, 255);
+    height: 380px;
+    width: 490px;
+    padding: 21px;
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 6px black;
+}

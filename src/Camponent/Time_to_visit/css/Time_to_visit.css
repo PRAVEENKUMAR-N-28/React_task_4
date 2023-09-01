@@ -1,0 +1,52 @@
+.part_0{
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 40px;
+}
+
+.caption_1{
+    text-align: center;
+}
+
+.part1_1{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px
+}
+
+.subTitle{
+    margin: 10px;
+    text-align: center;
+}
+
+.part1_2{
+    margin-left: 40px;
+    
+}
+
+.drop_down{
+    width: 600px;
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    /* border: solid 1.5px gray; */
+    border-radius: 5px;
+}
+
+.im_1 figure{
+    text-indent: 0px;
+}
+/* 
+.img_1 img{
+    height: 100px;
+    width: 100px;
+} */
+
+.t_v_Title{
+    text-align: center;
+    font-weight: 600;
+    margin: 8rem;
+}
+
+
+

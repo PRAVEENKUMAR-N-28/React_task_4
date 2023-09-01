@@ -1,0 +1,44 @@
+.Day_1_1{
+    background: rgb(255, 255, 255);
+    height: 360px;
+    width: 260px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+}
+
+.Package{
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 60px;
+}
+
+.carousle_part1_img{
+    height: 150px;
+    width: 260px;
+    border-radius: 10px;
+}
+
+.part1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.package_Conntent{
+    padding: 10px;
+    text-align: center;
+}
+
+.One_day_title{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.explore , .book{
+    padding:10px;
+    text-decoration: none;
+    background: blue;
+    margin: 1px;
+    border-radius: 5px;
+    color: white;
+}

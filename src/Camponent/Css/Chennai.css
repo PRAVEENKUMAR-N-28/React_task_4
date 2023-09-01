@@ -1,0 +1,54 @@
+.con2{
+    margin-top:2.8rem ;
+    margin-left: 140px;
+    margin-right: 140px;
+    
+}
+.con2-1{
+    display: flex;
+    gap: 30px;
+    /* justify-content: space-between; */
+    margin-bottom:2.8rem ;
+}
+
+.con2-1 img{
+    width: 500px;
+    height: 360px;
+}
+.p p{
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 50px;
+    position:relative;
+    bottom: 0.7rem;
+    font-size: 1.01rem;
+   
+}
+.ptitle{
+    position: relative;
+    top:0.8rem;
+}
+
+.p h5{
+    font-size: 1rem;
+    font-weight:600;
+}
+
+.mvp p{
+    text-align: center;
+    margin: 2rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.card-place{
+    display:flex;
+    justify-content: space-between;
+    gap: 15px;
+    /* height: 25rem; */
+}
+
+.c{
+    height: 3rem;
+}
+
